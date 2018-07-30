@@ -1,0 +1,4 @@
+CLIENT ID	e18d8396d6854b62aafd92f09cb6ba3a
+SUPPORT EMAIL	srikanthsree50@gmail.com
+CLIENT STATUS	Sandbox Mode
+secret  271cd08d60b9422d826e3dedd706c23b 
